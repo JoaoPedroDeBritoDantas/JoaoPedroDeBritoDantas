@@ -22,7 +22,7 @@ I'm currently studying:<br>
 
 <img src="https://profile-counter.glitch.me/joaopedrodebritodantas/count.svg?" />
 
-<h2 align="left">to visit my GitHub!</h2>
+<h2 align="left">Glad you're here – feel free to explore!</h2>
 
 <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmw5cnpiOWlobHh5b3J1eG1vazNteHFwZ2RudWo1N29va284ZXprYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q3pLCQEeAG3nO/giphy.gif" />
 
