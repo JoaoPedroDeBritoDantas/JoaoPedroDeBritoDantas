@@ -9,7 +9,7 @@
 <p align="left">
 Hey, I'm João Pedro<br><br>
 I'm 20 years old and a full-stack developer passionate about building complete solutions — from backend to frontend.<br><br>
-📚 I'm currently studying:<br>
+I'm currently studying:<br>
 - Systems Modeling<br>
 - Systems Programming<br>
 - Data Structures<br><br>
