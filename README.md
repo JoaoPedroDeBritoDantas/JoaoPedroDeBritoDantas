@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">Hello World 👋</h1>
+<h1 align="center">Hello World 👋</h1>
 
 ###
 
@@ -18,19 +18,19 @@ I'm currently studying:<br>
 
 ###
 
-<h2 align="left">You’re visitor</h2>
+<h2 align="center">You’re visitor</h2>
 
 <img src="https://profile-counter.glitch.me/joaopedrodebritodantas/count.svg?" />
 
-<h2 align="left">Glad you're here – feel free to explore!</h2>
+<h2 align="center">Glad you're here – feel free to explore!</h2>
 
 <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmw5cnpiOWlobHh5b3J1eG1vazNteHFwZ2RudWo1N29va284ZXprYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q3pLCQEeAG3nO/giphy.gif" />
 
 ###
 
-<h2 align="left">Here are my skills and stats</h2>
+<h2 align="center">Here are my skills and stats</h2>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
