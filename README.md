@@ -14,11 +14,6 @@ I'm currently studying:<br>
 📎 I'm also deeply interested in Y2K-era technology and the unique aesthetics that surround it!
 </p>
 
-<h2 align="center">You’re visitor</h2>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/joaopedrodebritodantas/count.svg?" />
-</div>
-
 <h2 align="center">Glad you're here – feel free to explore!</h2>
 <div align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmw5cnpiOWlobHh5b3J1eG1vazNteHFwZ2RudWo1N29va284ZXprYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q3pLCQEeAG3nO/giphy.gif" />
